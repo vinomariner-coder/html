@@ -1,0 +1,21 @@
+<html>
+   <head>
+    <style>
+    my-detail
+    
+    #my-card{
+      backround-color:lightcyan
+    }
+
+    </style>
+   </head>
+   <body>
+    <h1>my color character</h1>
+    <p style="color:crimson;">hi this is my own web page</p>
+    div id=my-card
+    <h2>about me</h2>
+    <p class-my detail>my most faviroute character
+        
+    </p>
+   </body>
+</html>
